@@ -1,0 +1,17 @@
+{
+  "compilerOptions": {
+  "jsx": "react-jsx", // ou "react" para React < 17
+  "module": "ESNext",
+  "target": "ESNext",
+  "declaration": true,
+  "declarationMap": true,
+  "emitDeclarationOnly": false,
+  "esModuleInterop": true,
+  "skipLibCheck": true,
+  "strict": true,
+  "moduleResolution": "node",
+  "outDir": "dist",
+  "forceConsistentCasingInFileNames": true
+  },
+  "include": ["src"]
+}
