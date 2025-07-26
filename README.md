@@ -24,7 +24,7 @@ Ideal para sites institucionais, landing pages e portfólios que desejam exibir 
 ```
 
 <div align="center">
-![alt text](/public/use_example.png)
+<img width="397" height="89" alt="image" src="https://github.com/user-attachments/assets/f4cf9a69-176c-4f94-babf-6a06d82776f5" />
 </div>
 
 ## 🚀 Instalação
