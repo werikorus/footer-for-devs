@@ -6,7 +6,7 @@ interface SimpleFooterProps {
   developerName: string;
   developerLink?: string;
   year?: number;
-  children?: ReactNode;
+  icon?: ReactNode;
 }
 
 export const SimpleFooter: React.FC<SimpleFooterProps> = ({
@@ -14,7 +14,7 @@ export const SimpleFooter: React.FC<SimpleFooterProps> = ({
   developerName,
   developerLink,
   year = new Date().getFullYear(),
-  children = <img className="h-4 w-4 mt-2" src="/code-tech.svg" alt="codedev" />,
+  icon = <img className="h-4 w-4 mt-2" src="/public/code-tech.svg" alt="</>" />,
 }) => {
   return (
     <footer className="text-white mt-12 flex h-[5rem]">
@@ -35,8 +35,8 @@ export const SimpleFooter: React.FC<SimpleFooterProps> = ({
             ):(
               <strong>{developerName}</strong>
             )}
-          </p>    
-          {children}
+            {icon}
+          </p>
         </div>        
       </div>
     </footer>
