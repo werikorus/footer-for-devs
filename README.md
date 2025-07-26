@@ -6,7 +6,7 @@ Ideal para sites institucionais, landing pages e portfólios que desejam exibir 
 <div align="center">
 
 [![npm](https://img.shields.io/npm/v/footer-for-devs.svg?style=flat-square)](https://www.npmjs.com/package/footer-for-devs)
-[![download](/public/code-tech.svg)](https://www.npmjs.com/package/footer-for-devs)
+[![downloads](https://img.shields.io/npm/dt/footer-for-devs.svg?style=flat-square)](https://www.npmjs.com/package/footer-for-devs)
 [![GitHub stars](https://img.shields.io/github/stars/werikorus/footer-for-devs?style=social)](https://github.com/werikorus/footer-for-devs)
 [![MIT License](https://img.shields.io/badge/license-MIT-green.svg)](LICENSE)
 
