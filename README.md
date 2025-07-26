@@ -15,3 +15,6 @@ Ideal para sites institucionais, landing pages e portfólios que desejam exibir 
   year={2025}
 />
 ```
+
+[![npm version](https://img.shields.io/npm/v/footer-for-devs.svg)](https://www.npmjs.com/package/footer-for-devs)
+[![GitHub](https://img.shields.io/github/stars/werikorus/footer-for-devs?style=social)](https://github.com/werikorus/footer-for-devs)
